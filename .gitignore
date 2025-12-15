@@ -1,0 +1,21 @@
+# --- File .gitignore cho dự án Python/AI ---
+__pycache__/
+*.py[cod]
+*$py.class
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/
+env/
+venv/
+.venv/
+.env
+*.csv
+*.xlsx
+*.json
+*.zip
+*.rar
+*.pth
+*.pt
+*.h5
+*.pkl
+.vscode/
+.DS_Store
